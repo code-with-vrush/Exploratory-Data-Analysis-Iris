@@ -42,8 +42,9 @@ To uncover patterns, visualize distributions, and build an intuitive understandi
 ---
 
 ## 🔍 Sample Visuals
-
-![Alt text](https://www.researchgate.net/profile/Chya-Fatah/publication/381317021/figure/fig2/AS:11431281251150674@1718137637401/Pair-Plot-of-Iris-data-set-real-features.ppm)
+<img src="https://media.geeksforgeeks.org/wp-content/uploads/20210709230555/pairplotirisEDA.png" width="300" />
+<img src="https://media.geeksforgeeks.org/wp-content/uploads/20210709230555/pairplotirisEDA.png" width="300" />
+<img src="https://media.geeksforgeeks.org/wp-content/uploads/20210709230555/pairplotirisEDA.png" width="300" />
 <img src="https://media.geeksforgeeks.org/wp-content/uploads/20210709230555/pairplotirisEDA.png" width="300" />
 ---
 
