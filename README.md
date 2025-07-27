@@ -36,7 +36,7 @@ To uncover patterns, visualize distributions, and build an intuitive understandi
 ### 📌 How to Run
 
 1. Clone the repository
-2. Open `iris_eda.ipynb` or run in your Jupyter Notebook
+2. Open `EDA_On_Iris_DataSet.ipynb` or run in your Jupyter Notebook
 3. Follow the notebook step-by-step
 
 ---
