@@ -43,8 +43,7 @@ To uncover patterns, visualize distributions, and build an intuitive understandi
 
 ## 🔍 Sample Visuals
 
-> *(You can add a few PNG plots here if you want)*
-
+![Alt text](https://www.researchgate.net/profile/Chya-Fatah/publication/381317021/figure/fig2/AS:11431281251150674@1718137637401/Pair-Plot-of-Iris-data-set-real-features.ppm)
 ---
 
 ## 📬 Contact
