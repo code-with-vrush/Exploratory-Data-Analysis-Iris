@@ -42,10 +42,8 @@ To uncover patterns, visualize distributions, and build an intuitive understandi
 ---
 
 ## 🔍 Sample Visuals
-<img src="https://media.geeksforgeeks.org/wp-content/uploads/20210709230555/pairplotirisEDA.png" width="300" />
-<img src="https://media.geeksforgeeks.org/wp-content/uploads/20210709230555/pairplotirisEDA.png" width="300" />
-<img src="https://media.geeksforgeeks.org/wp-content/uploads/20210709230555/pairplotirisEDA.png" width="300" />
-<img src="https://media.geeksforgeeks.org/wp-content/uploads/20210709230555/pairplotirisEDA.png" width="300" />
+<img src="https://media.geeksforgeeks.org/wp-content/uploads/20210709230555/pairplotirisEDA.png"/>
+
 ---
 
 ## 📬 Contact
