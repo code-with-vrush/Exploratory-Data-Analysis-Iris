@@ -48,7 +48,7 @@ To uncover patterns, visualize distributions, and build an intuitive understandi
 
 ## 📬 Contact
 
-Created by **Vrushang Kumar Patel** — feel free to connect on [LinkedIn](https://www.linkedin.com) or follow on [GitHub](https://github.com).
+Created by **Vrushang Kumar Patel** — feel free to connect on [LinkedIn](www.linkedin.com/in/vrushangpatel) or follow on [GitHub](https://github.com/code-with-vrush).
 
 ---
 
